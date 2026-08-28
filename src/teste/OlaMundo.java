@@ -5,4 +5,3 @@ public class OlaMundo {
         System.out.println("Olá Mundo");
     }
 }
-
